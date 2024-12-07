@@ -1,6 +1,7 @@
 ## 👋 Hello, I’m Alexandra
 
 🌿 I’m a Marketing Analytics Expert with over 15 years of experience  
+🎭 Actress in amateur Dutch theater  
 ✨ Available for freelance projects (quick turnarounds or long-term collaborations)
 
 📩 How to reach me:  
