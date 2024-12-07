@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hello, I’m Alexandra
 
-<!--
-**avkotova/avkotova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌿 I’m a Marketing Analytics Expert with over 15 years of experience  
+✨ Available for freelance projects (quick turnarounds or long-term collaborations)
 
-Here are some ideas to get you started:
+📩 How to reach me:  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/alexandra-kotova/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🔍 **What I can help with:**  
+ 📈 **Marketing Analytics**: RFM, cohort analysis, LTV, ROMI, CLTV  
+ 💵 **Sales Performance**: Margin analysis, SKU optimization, product mix strategy  
+ 🌱 **Product Launch**: Market trends, consumer behavior analysis  
+ 🔍 **Brand Research**: Brand awareness studies, market positioning, consumer perception analysis  
+ 🔧 **End-to-End Reporting**: Automating dashboards (Power BI, Tableau)  
+ 🧑‍🤝‍🧑 **Customer Segmentation**: In-depth analysis of customer behavior and segmentation  
+ 🔬 **Campaign Optimization**: Designing experiments, maximizing ROI  
+
+I’ve worked with  businesses across various industries, including retail, B2B sectors, and both small and large companies, helping them leverage data for smarter decision-making and growth.
+
