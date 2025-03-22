@@ -1,14 +1,14 @@
-## 👋 Hello, I’m Alexandra
+## Hello, I’m Alexandra
 
-🌿 I’m a Marketing Analytics Expert with over 15 years of experience  
-🎭 Actress in amateur Dutch theater  
-✨ Available for freelance projects (quick turnarounds or long-term collaborations)
+I’m a Marketing Analytics Expert with over 15 years of experience  
+Actress in amateur Dutch theater  
+Available for freelance projects (quick turnarounds or long-term collaborations)
 
 📩 How to reach me:  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/alexandra-kotova/)  
 
 
-🔍 **What I can help with:**  
+**What I can help with:**  
  📈 **Marketing Analytics**: RFM, cohort analysis, LTV, ROMI, CLTV  
  💵 **Sales Performance**: Margin analysis, SKU optimization, product mix strategy  
  🌱 **Product Launch**: Market trends, consumer behavior analysis  
